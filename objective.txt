@@ -1,0 +1,6 @@
+help me create this project using ML
+the objective of the project are :
+1) to reduce the dimentionality of liver patients dataset using principal component analysis
+ 2) to develop a model to predict the presece or absence of liver disease using logistic regression and gradient boosting 
+3) to identify and analyse the most significant risk factor contributing to liver diseases using random forest
+4) to compare the models logistic regression and gradient boosting to find which is better
